@@ -1,18 +1,22 @@
-# Security Principles
+## Security Principles
+---
 
-## Key Concepts
+### Key Concepts
 
-- **CIA Triad**:
-  - **Confidentiality**
-  - **Integrity**
-  - **Availability**
+- **CIA Triad**  
+  A core model in information security, representing three primary goals:
 
-- **Least Privilege**: Users/applications should have the minimum access needed.
+  - **Confidentiality**: Ensuring that sensitive information is accessible only to authorized individuals.  
+  - **Integrity**: Guaranteeing the accuracy and trustworthiness of data and systems.  
+  - **Availability**: Making sure that systems and data are accessible when needed by authorized users.
 
-- **Defense in Depth**: Multiple layers of defense reduce risk.
+- **Least Privilege**  
+  Users, applications, and systems should be granted the **minimum level of access** necessary to perform their functions. This reduces the potential impact of errors or breaches.
 
-- **Separation of Duties**: Prevents fraud or misuse by splitting responsibilities.
+- **Defense in Depth**  
+  A strategy that employs **multiple layers of security controls** throughout an IT system. If one layer fails, others continue to provide protection, reducing the overall risk.
 
-## Takeaway
+- **Separation of Duties**  
+  Splitting responsibilities among individuals or systems to prevent **fraud, error, or abuse of power**. For example, the person who approves financial transactions should not also be the one executing them.
 
-Security isn’t just technical—it’s about reducing risk with layered, principle-driven strategies.
+---
