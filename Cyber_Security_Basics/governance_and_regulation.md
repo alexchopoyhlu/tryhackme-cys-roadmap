@@ -1,7 +1,5 @@
 ## Governance & Regulation
 
-As I progress through the TryHackMe cybersecurity roadmap, I've come to understand that strong **governance and regulation** are the foundation of any secure organization. This area ensures that security practices are **not just technical**, but are aligned with **business goals, industry standards, and legal obligations**.
-
 ---
 
 ### Key Topics
@@ -19,8 +17,6 @@ As I progress through the TryHackMe cybersecurity roadmap, I've come to understa
   1. **Identifying** potential threats and vulnerabilities  
   2. **Evaluating** the likelihood and impact  
   3. **Mitigating** them through controls, insurance, or acceptance  
-  
-  It’s a proactive approach to prevent security incidents before they occur.
 
 ---
 
@@ -41,8 +37,3 @@ As I progress through the TryHackMe cybersecurity roadmap, I've come to understa
 - **PCI-DSS (Payment Card Industry Data Security Standard)**  
   A set of security standards for organizations that handle credit card data, ensuring secure processing, storage, and transmission.
 
----
-
-### Takeaway
-
-Good governance isn’t just about ticking compliance boxes—it's about aligning **cybersecurity strategy** with **organizational goals** and **legal requirements**. It brings structure and accountability to security initiatives, ensuring that protection isn't left to chance.
