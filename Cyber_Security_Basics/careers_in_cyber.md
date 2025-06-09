@@ -1,20 +1,44 @@
-# Careers in Cyber
+## Careers in Cyber
 
-## Key Takeaways
+---
 
-- Cybersecurity is a wide field with roles like:
-  - **Security Analyst**: Monitors, detects and responds to threats.
-  - **Penetration Tester**: Ethically hacks systems to find vulnerabilities.
-  - **Security Engineer**: Designs and implements secure systems.
+### Key Roles in Cybersecurity
 
-## Recommended Skills
+Here are some of the core career paths within the field:
 
-- Analytical thinking
-- Communication
-- Problem-solving
-- Curiosity & continual learning
+- **Security Analyst**  
+  Monitors systems, analyzes logs, and responds to security threats in real time. Often the first line of defense in a Security Operations Center (SOC).
 
-## Insights
+- **Penetration Tester (Ethical Hacker)**  
+  Simulates real-world attacks on systems, applications, and networks to identify vulnerabilities **before** malicious actors do.
 
-- Certifications like CompTIA Security+, CEH, and OSCP can help.
-- Soft skills are just as important as technical ones.
+- **Security Engineer**  
+  Designs, builds, and maintains secure infrastructure. Focuses on hardening systems and automating security controls.
+
+Other roles to explore:
+- Incident Responder  
+- Threat Hunter  
+- Governance, Risk, and Compliance (GRC) Specialist  
+- Security Architect  
+- Cloud Security Engineer  
+- Malware Analyst  
+
+---
+
+### Recommended Skills
+
+Some key skills include:
+
+- **Analytical Thinking** – Ability to investigate, correlate data, and spot patterns.  
+- **Communication** – Translating technical findings for non-technical audiences.  
+- **Problem-Solving** – Thinking creatively under pressure during incidents.  
+- **Curiosity & Continuous Learning** – Threats evolve, and so must we.
+
+---
+
+### Insights & Growth Tips
+
+- **Certifications** can boost your credibility and focus your learning:
+  - **CompTIA Security+** – Great entry point into the field.
+  - **CEH (Certified Ethical Hacker)** – Focuses on offensive security skills.
+  - **OSCP (Offensive Security Certified Professional)** – Highly respected for penetration testers.
